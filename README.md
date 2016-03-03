@@ -1,3 +1,3 @@
 # Powerful_App
 
-This is A App which integrated working with various APIs including email, news, movies, reddit.
+#This is a App which integrated working with various APIs including email, news, movies, reddit.
